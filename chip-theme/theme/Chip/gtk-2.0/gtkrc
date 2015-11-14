@@ -41,12 +41,12 @@ style "default"
     base[INSENSITIVE] = "#303030"
     base[NORMAL]      = "#121212"
     base[PRELIGHT]    = "#490038"
-    base[SELECTED]    = "#63003d"
+    base[SELECTED]    = "#eb008b"
 
     bg[ACTIVE]        = "#151515"
     bg[INSENSITIVE]   = "#303030"
     bg[NORMAL]        = "#232323"
-    bg[PRELIGHT]      = "#63003d"
+    bg[PRELIGHT]      = "#eb008b"
     bg[SELECTED]      = "#490038"
 
     fg[ACTIVE]        = "#dadada"
@@ -163,7 +163,7 @@ widget_class "*HandleBox"         style "flat"
 # 
 style "titlebar"
 {
-    bg[SELECTED]      = "#63003d"
+    bg[SELECTED]      = "#eb008b"
     fg[SELECTED]      = "#ffffff"
     bg[INSENSITIVE]   = "#490038"
     fg[INSENSITIVE]   = "#da9acb"
