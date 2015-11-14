@@ -37,16 +37,16 @@ style "default"
     ythickness             = 1
 
 
-    base[ACTIVE]      = "#eb008b"
+    base[ACTIVE]      = "#c41f81"
     base[INSENSITIVE] = "#303030"
     base[NORMAL]      = "#121212"
     base[PRELIGHT]    = "#490038"
-    base[SELECTED]    = "#eb008b"
+    base[SELECTED]    = "#c41f81"
 
     bg[ACTIVE]        = "#151515"
     bg[INSENSITIVE]   = "#303030"
     bg[NORMAL]        = "#232323"
-    bg[PRELIGHT]      = "#eb008b"
+    bg[PRELIGHT]      = "#c41f81"
     bg[SELECTED]      = "#490038"
 
     fg[ACTIVE]        = "#dadada"
@@ -163,7 +163,7 @@ widget_class "*HandleBox"         style "flat"
 # 
 style "titlebar"
 {
-    bg[SELECTED]      = "#eb008b"
+    bg[SELECTED]      = "#c41f81"
     fg[SELECTED]      = "#ffffff"
     bg[INSENSITIVE]   = "#490038"
     fg[INSENSITIVE]   = "#da9acb"
