@@ -1,0 +1,14 @@
+Source: chip-theme
+Section: unknown
+Priority: optional
+Maintainer: Ben Young <benjamin@nextthing.co>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.5
+Homepage: nextthing.co
+Github: github.com/NextThingCo
+
+Package: chip-theme
+Architecture: all
+Depends: ${misc:Depends}
+Description: default theme for chip
+ Default gtk theme for chip
