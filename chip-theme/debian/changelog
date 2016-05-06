@@ -1,3 +1,9 @@
+chip-theme (0.2) unstable; urgency=low
+
+  * Increment for PocketCHIP Release.
+
+ -- Ben Young <benjamin@nextthing.co>  Thu, 05 May 2016 20:23:24 -0800
+
 chip-theme (0.1) unstable; urgency=low
 
   * Initial Release.
